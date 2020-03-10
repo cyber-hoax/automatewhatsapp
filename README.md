@@ -1,8 +1,8 @@
-#Project Title
+# Project Title
 
 Automate WhatsApp for sending messages to any particular person or group in WhatsApp.
 
-##Getting Started
+## Getting Started
 
 It's not totally automated as the QR scan should be scanned manually.
 Everythhing is working fine with code as you soon run the code chrome will pop-up
@@ -10,7 +10,7 @@ and open WhatsApp web and scan the QR code from your phone. then type contact na
 and the message you want send and the number of times you wanna send.
 
 --- 
-###prerequisites
+### prerequisites
 <!---libraries --->
 >Selenium Library
 
@@ -18,7 +18,7 @@ and the message you want send and the number of times you wanna send.
 
 
 
-###installing 
+### installing 
 
 
 ```
@@ -31,7 +31,7 @@ download [chrome driver here ](https://chromedriver.chromium.org/downloads)
 
 
 
-###code :
+### code :
 ```   
 
 # import web driver from selenium 
@@ -64,7 +64,7 @@ for i in range(count):
 
 ```
 
-###snippet from above code:
+### snippet from above code:
 >user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
 
 >>you can see why [@title = "{}"] because user providing the name of the contact 
@@ -91,7 +91,7 @@ for i in range(count):
 
 #
 
-###Output :
+### Output :
 
 ![screenshot](scan.png)
 
