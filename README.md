@@ -15,7 +15,9 @@ and the message you want send and the number of times you wanna send.
 >Selenium Library
 
 >Chrome driver
-#
+
+
+
 ###installing 
 
 
@@ -28,7 +30,7 @@ download [chrome driver here ](https://chromedriver.chromium.org/downloads)
 ```
 
 
-#
+
 ###code :
 ```   
 
