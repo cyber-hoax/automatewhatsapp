@@ -1,7 +1,9 @@
 #Project Title
+
 Automate WhatsApp for sending messages to any particular person or group in WhatsApp.
 
-##Getting Started 
+##Getting Started
+
 It's not totally automated as the QR scan should be scanned manually.
 Everythhing is working fine with code as you soon run the code chrome will pop-up
 and open WhatsApp web and scan the QR code from your phone. then type contact name in te console box 
